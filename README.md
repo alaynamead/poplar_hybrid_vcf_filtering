@@ -1,5 +1,8 @@
 # poplar_hybrid_vcf_filtering
 
+[![DOI](https://zenodo.org/badge/983707108.svg)](https://doi.org/10.5281/zenodo.17515786)
+
+
 Scripts for filtering a VCF of 544 individuals from the Populus balsamifera x P. trichocarpa hybrid zone
 
 Alayna Mead, 31 January 2025
